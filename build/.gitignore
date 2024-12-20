@@ -5,9 +5,6 @@
 #引擎太大交不上去
 engine
 
-#Debug
-Debug
-
 #调试生成的中间目录
 test.dir
 
