@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\homework\test\test\build\CMakeFiles\b4dd323354f10d44f072c75f099e87dc\SYNC_RESOURCE-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\homework\test\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\homework\test\test\build\CMakeFiles\SYNC_RESOURCE-test" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4E63D437-CAB6-389A-84DD-037F844B3B17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
